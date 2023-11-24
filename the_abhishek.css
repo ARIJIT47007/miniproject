@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+  }
+  .wrapper{
+    height:100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  .container-1{
+    width:1200px;
+    margin:auto;
+  }
+  .navbar{
+    margin-top:1.5rem;
+    display:flex;
+    justify-content: space-between;
+  }
+  .nav-right{
+    display: flex;
+    align-items:center;
+    gap:20%;
+  }
+  .nav-left{
+    display: flex;
+    align-items: center;
+  }
+  .content{
+     margin-left:2rem;
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+    text-decoration: none;
+  }
+  .button{
+    margin-left:2rem;
+    padding:10px 30px;
+    border-radius:50px;
+    background-color: black;
+    color:white;
+    font-weight:bold;
+  }
+  .search{
+    width:25rem;
+    height:2.5rem;
+    border-radius:50px;
+    align-items:center;
+    border-color:gray;
+  }
+  .logo{
+    width:150px;
+  }
+  .nav-2{
+    margin-top:1.5rem;
+  }
+  .hotel{
+    font-size:15px;
+    margin-right:2rem;
+    font-weight:bold;
+    color:black;
+    text-decoration:none;
+  }
+  .container-2{
+    width:100%;
+    position: relative;
+  }
+  .image-2{
+    width:100%;
+    margin:auto;
+    height:500px;
+  }
+  .image-2-0{
+    width:100%;
+   
+  }
+  .heading-3{
+    align-items:center;
+     position:absolute;
+    color:white;
+    font-size:50px;
+  }

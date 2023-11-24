@@ -1,0 +1,164 @@
+.nav-left {
+    float: left;
+    font-size: 250%;
+    font-family: blaka ink;
+    position: relative;
+    left: 2%;
+  }
+  .nav-right {
+    float: right;
+  }
+  .search {
+    width: 25rem;
+    height: 2.5rem;
+    border-radius: 50px;
+    align-items: center;
+    background-color: whitesmoke;
+  }
+  .review {
+    margin-left: 2rem;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .button {
+    margin-left: 2rem;
+    padding: 10px 30px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
+  .nav-2 {
+    padding-top: 70px;
+  }
+  img {
+    padding-top: 20px;
+  }
+  .hotel {
+    font-size: 20px;
+    margin-right: 2rem;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+  }
+  img {
+    width: 100%;
+    margin: auto;
+    height: 550px;
+  }
+  .para-1 {
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Borel", cursive;
+    color: white;
+    font-weight: bold;
+  }
+  .para-2 {
+    position: absolute;
+    top: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex: 1;
+    margin-left: 25px;
+    font-family: "Sono", sans-serif;
+  }
+  .card {
+    background-color: #f2f2f2;
+    width: 33%;
+    border: 1px dotted pink;
+    border-radius: 20px;
+    padding: 7px;
+  }
+  .card-3 {
+    background-color: #f2f2f2;
+    width: 33%;
+    border: 1px dotted pink;
+    border-radius: 20px;
+    padding: 18px;
+  }
+  .container-1 {
+    background-image: linear-gradient(to right, #fe5f75, #fc9842);
+  }
+  .destinations {
+    display: flex;
+    flex-direction: column;
+    background-image: url("./bg\ img3.jpg");
+   }
+   .Varanasi-2{
+    float: left;
+    width: 40%;
+    height: 40%;
+    position: relative;
+    bottom: 14px;
+  }
+  .varanasi-3{
+    position: absolute;
+    top: 103%;
+    font-family: 'Great Vibes', cursive;
+    color: orange;
+  }
+  .varanasi-4{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: white;
+  }
+  .shimla-2{
+    float: left;
+    width: 40%;
+    height: 40%;
+  }
+  .shimla-3{
+    position: absolute;
+    top: 162%;
+    font-family: 'Great Vibes', cursive;
+  }
+  .shimla-4{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: white;
+  }
+  .gompa-2{
+    float: left;
+    width: 40%;
+    height: 40%;
+  }
+  .gompa-3{
+    position: absolute;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+  }
+  .gompa-4{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: white;
+  }
+  .havelock-2{
+    float: left;
+    width: 40%;
+    height: 40%;
+  }
+  .havelock-3{
+    position: absolute;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+  }
+  .havelock-4{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: white;
+  }
+  footer{
+    clear: right;
+    text-align: right;
+  }

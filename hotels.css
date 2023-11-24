@@ -1,0 +1,8 @@
+.navbar{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    animation: gradient-animation 5s ease infinite;
+    font-family: blaka ink;
+    font-size: 500%;
+    display: flex;
+    justify-content: center;
+}
